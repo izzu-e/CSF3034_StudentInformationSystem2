@@ -19,6 +19,7 @@ public class StudentInformationSystem2 {
                         grade = "fail";
         System.out.println("Total Mark = "+total);
         System.out.println("Grade : "+grade);
+        System.out.println("Thank you");
     }
     
 }
